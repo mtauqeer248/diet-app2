@@ -1,0 +1,41 @@
+.test-section{
+    width: 100%;
+    min-height: 100vh;
+  
+    background: rgb(214, 219, 193);
+    color:rgb(141, 91, 67);
+    
+}
+.test-wrapper{
+    display:inline-flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+justify-content: center;
+}
+.test-info-section{
+ width:550px;
+ height:350px;
+border:black 2px solid;
+margin-bottom: 20px;
+background: url("qoute3.png");
+background-repeat: no-repeat;
+background-size: cover;
+
+opacity: 0.5;
+
+}
+
+
+.text-class{
+    padding:2em 4em;
+    align-items: center;
+   
+}
+.card-title{
+    font-size: x-large;
+    color: chartreuse;
+}
+.card-text{
+    letter-spacing:2px;
+}
