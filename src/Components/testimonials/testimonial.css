@@ -18,11 +18,9 @@ justify-content: center;
  height:350px;
 border:black 2px solid;
 margin-bottom: 20px;
-background: url("qoute3.png");
 background-repeat: no-repeat;
 background-size: cover;
 
-opacity: 0.5;
 
 }
 
@@ -33,7 +31,7 @@ opacity: 0.5;
    
 }
 .card-title{
-    font-size: x-large;
+    font-size:100px;
     color: chartreuse;
 }
 .card-text{
