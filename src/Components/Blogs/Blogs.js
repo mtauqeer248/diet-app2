@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Blog.css';
-import Carousel from 'react-elastic-carousel';
+
 
 function BlogItem({ heading, data }) {
    
@@ -11,7 +11,7 @@ function BlogItem({ heading, data }) {
                 <div className="blog-wrapper">
                     
         
-        <Carousel>
+       
         {data.map((data) =>{
             return(
               <div key={data.id} className="blog-wrap">
@@ -21,7 +21,7 @@ function BlogItem({ heading, data }) {
          ) })
         } 
       
-      </Carousel>
+     
                    
                 </div>
             </div>
