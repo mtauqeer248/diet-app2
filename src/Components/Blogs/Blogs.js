@@ -15,7 +15,7 @@ function BlogItem({ heading, data }) {
         {data.map((data) =>{
             return(
               <div key={data.id} className="blog-wrap">
-              <div className="blog-img"><img src={data.img}></img>{data.alt}</div>
+              <div className="blog-img"><img src={data.img}></img></div>
               <div className="blog-desc">{data.desc}</div>
               </div>
          ) })
