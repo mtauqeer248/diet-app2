@@ -11,7 +11,7 @@ function InfoSection() {
                 </div>
                 <div className="info-text">
                     <h1>Hello<span>There</span></h1>
-                    <h2>Iam <span>Faiza Khalid</span></h2>
+                    <h2>Iam <span>ABC</span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Maecenas nec erat et lorem pulvinar interdum.
                     Donec molestie sem ut justo scelerisque mollis at ac ligula.
@@ -26,7 +26,7 @@ function InfoSection() {
             <div className="info-container">
             <div className="info-text">
                     <h1>Hello<span>There</span></h1>
-                    <h2>Iam <span>Faiza Khalid</span></h2>
+                    <h2>Iam <span>ABC</span></h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Maecenas nec erat et lorem pulvinar interdum.
                     Donec molestie sem ut justo scelerisque mollis at ac ligula.

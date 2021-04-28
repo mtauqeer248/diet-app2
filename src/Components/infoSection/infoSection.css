@@ -32,6 +32,8 @@ padding:1rem 2rem;
 display:flex;
 justify-content: center;
 align-items: center;
+width:550px;
+height:350px;
 }
 
 .info-text{
