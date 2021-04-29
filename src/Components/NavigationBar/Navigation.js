@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom'
+import { BrowserRouter as Router,Switch,Route, Link } from 'react-router-dom'
 import { Button } from '../Button';
 import './NavigationBar.css';
+
 
 export const Navigation = () => {
     const [Click, SetClick] = useState(false)
@@ -60,6 +61,7 @@ export const Navigation = () => {
                 </ul>
                 {button && <Button className="btn" buttonSize="btn--large" buttonStyle="btn--outline">ADMIN</Button>}
             </div>
+            
         </div>
     )
 }

@@ -12,9 +12,10 @@
     margin:0 auto;
 }
 .Heading{
-    font-size: clamp(2rem,2.5vm,3rem);
+    font-size: 50px;
     text-align: center;
     margin-bottom: 5rem;
+   
 }
 .card{
     margin:0.2rem;

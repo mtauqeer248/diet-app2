@@ -9,7 +9,7 @@ function Banner() {
             <h1>Healthy Life Happy Life</h1>
             <p>We here for you we can help you acheive your body goals</p>
             <div className="hero-btns">
-                <Button className="btns" buttonSize="btn--large" buttonStyle="btn--primary"> Diet Plans</Button>
+                <button className="btns" buttonSize="btn--large" buttonStyle="btn--primary"> Diet Plans</button>
             </div>
             
         </div>

@@ -17,11 +17,10 @@ function Home() {
      <div className="home">
          <Banner/>
          <InfoSection/>
-         
          <CardItems  Heading="Get Your Plan" data={CardData}/>
          <BlogItem  heading='our Blogs' data={BlogData}/>
          <Testimonials  heading="Testimonials" data={TestimonialData}/>
-         <Footer/>
+        
      </div>
         </ >
     )

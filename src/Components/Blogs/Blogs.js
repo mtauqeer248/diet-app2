@@ -7,7 +7,7 @@ function BlogItem({ heading, data }) {
     return (
         <>
             <div className="section">
-                <div className="heading">{heading}</div>
+                <div className="Heading">{heading}</div>
                 <div className="blog-wrapper">
                     
         

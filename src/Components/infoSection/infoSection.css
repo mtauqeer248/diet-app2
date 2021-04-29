@@ -42,8 +42,9 @@ height:350px;
     justify-content: center;
     align-items: flex-start;
     line-height: 1.4;
-    padding:1rem 2rem;
+    padding:1rem 6rem;
     box-sizing: border-box;
+    margin-bottom: 50px;
 }
 @media screen and (max-width:768px) {
     .info-container{

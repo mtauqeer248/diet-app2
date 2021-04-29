@@ -1,15 +1,20 @@
 .test-section{
     width: 100%;
     min-height: 100vh;
-  
     background: rgb(229, 241, 180);
     color:rgb(141, 91, 67);
     
 }
+.heading{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5rem;
+   
+}
 .test-wrapper{
     display:inline-flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap:20px;
     align-items: center;
 justify-content: center;
 }
